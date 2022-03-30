@@ -1,0 +1,61 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    overflow: display;
+  }
+
+  body {
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+
+  h1 {
+    font-weight: bold;
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+    background-image: url('../../images/pattern.webp');
+    background-color: gray;
+    width: 100%;
+    
+  }
+  
+  h2 {
+    font-weight: bold;
+    color: white;
+    font-size: 32px;
+  }
+  
+  h3 {
+    font-weight: bold;
+    font-size: 20px;
+  }
+   
+  p, 
+  li {
+    font-size: 18px;
+  }
+   
+
+  .first-header {
+    background-color: mediumspringgreen;
+
+  }
+  .second-header {
+    background-color: lightcoral;
+
+  }
+  .third-header {
+    background-color: skyblue;
+
+  }
+
+  .price {
+      color: blue;
+      font-weight: bold;
+  }
+   
+  img {
+    width: 500; 
+    height: 600;
+  }
